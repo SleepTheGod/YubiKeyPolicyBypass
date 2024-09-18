@@ -10,7 +10,7 @@ Navigate to the directory
 cd YubiKeyPolicyBypass
 
 Make the script executable
-chmod +x main.sh
+chmod +x main.sh && chmod +x main2.sh
 
 Execute the script
-./main.sh
+./main.sh; ./main2.sh;
